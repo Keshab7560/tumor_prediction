@@ -8,4 +8,3 @@ openpyxl
 requests
 gunicorn
 scikit-learn
-libgl1
