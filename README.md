@@ -1,1 +1,1 @@
-# tumor_prediction
+# kidney_tumor_detection_app
